@@ -133,17 +133,17 @@ https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/
 # ==================== DOCUMENTALES ====================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Documentales",Discovery Channel HD
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-home-and-health-br.png" group-title="Documentales",Discovery H&H HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3s6xW1g/discovery-hh.png" group-title="Documentales",Discovery H&H HD
 http://138.59.227.20:8000/play/a08f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-science-br.png" group-title="Documentales",Discovery Science
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vz6k9Y2/tv-icon.png" group-title="Documentales",Discovery Science
 http://138.59.227.20:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-theater-br.png" group-title="Documentales",Discovery Theater HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vz6k9Y2/tv-icon.png" group-title="Documentales",Discovery Theater HD
 http://138.59.227.20:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-world-br.png" group-title="Documentales",Discovery World HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vz6k9Y2/tv-icon.png" group-title="Documentales",Discovery World HD
 http://138.59.227.20:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/history-channel-us.png" group-title="Documentales",History Channel
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/history-2-ar.png" group-title="Documentales",History 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vz6k9Y2/tv-icon.png" group-title="Documentales",History 2
 http://138.59.227.20:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="Documentales",Nat Geo HD
 http://138.59.227.20:8000/play/a09f/index.m3u8
