@@ -82,7 +82,9 @@ https://vids.vidplayz.site/1847293/s0n1.mp4?angry-birds-2-la-pelicula
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Películas",Nuev (VOD)
 https://novastrim.com/ficha/2e8007d6-af80-4572-8cc9-9051cc8e4b80
 
-# ==================== SERIES ====================
+# ==================== SERIES & ENTRETENIMIENTO ====================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="Series",Telemundo Internacional
+http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="Series",AMC Español
 https://amc-amcespanol-1-us.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Series",Aurora Film
@@ -151,6 +153,8 @@ http://138.59.227.20:8000/play/a09f/index.m3u8
 http://138.59.227.20:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="Infantiles",Cartoon Network Latam
 https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Cartoon_Network/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tooncast-br.png" group-title="Infantiles",Tooncast
+http://190.61.42.218:9000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png" group-title="Infantiles",Discovery Kids
 http://138.59.227.20:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="Infantiles",Disney Channel HD
