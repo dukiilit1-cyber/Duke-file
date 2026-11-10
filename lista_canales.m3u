@@ -13,7 +13,7 @@ http://138.59.227.20:8000/play/a05u/index.m3u8
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="🇦🇷 Argentina",Misiones Cuatro
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/716/716429.png" group-title="🇦🇷 Argentina",Yguazu Tv
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/00E5FF.png?text=YGUAZU+TV&font=montserrat" group-title="🇦🇷 Argentina",Yguazu Tv
 http://138.59.227.20:8000/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtvenvivo.com/wp-content/uploads/2020/08/snt-paraguay-en-vivo.png" group-title="🇦🇷 Argentina",SNT Asunción
 http://200.85.51.158:64333/play/a04f/index.m3u8
@@ -75,11 +75,11 @@ http://45.171.64.30:6060/play/a005/index.m3u8
 http://45.171.64.30:6060/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/film-arts-ar.png" group-title="Películas",Film & Arts HD
 http://138.59.227.20:8000/play/a075/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" group-title="Películas",CINE CONTIVISION H3
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/E50914.png?text=CONTIVISION+H3&font=montserrat" group-title="Películas",CINE CONTIVISION H3
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Películas",Angry Birds 2: La Película
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/FF5722.png?text=ANGRY+BIRDS+2&font=montserrat" group-title="Películas",Angry Birds 2: La Película
 https://vids.vidplayz.site/1847293/s0n1.mp4?angry-birds-2-la-pelicula
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Películas",Nuev (VOD)
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/E50914.png?text=ESTRENO+VOD&font=montserrat" group-title="Películas",Nuev (VOD)
 https://novastrim.com/ficha/2e8007d6-af80-4572-8cc9-9051cc8e4b80
 
 # ==================== SERIES & ENTRETENIMIENTO ====================
@@ -87,37 +87,37 @@ https://novastrim.com/ficha/2e8007d6-af80-4572-8cc9-9051cc8e4b80
 http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="Series",AMC Español
 https://amc-amcespanol-1-us.plex.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Series",Aurora Film
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/FFC107.png?text=AURORA+FILM&font=montserrat" group-title="Series",Aurora Film
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I0eGYI0.png" group-title="Series",Bum Television
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJmvyir.png" group-title="Series",Cosmos Movies
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" group-title="Series",Cusco Play Cine
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/00E676.png?text=CUSCO+PLAY&font=montserrat" group-title="Series",Cusco Play Cine
 https://stmv2.srvif.com/cuscoplay/cuscoplay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2991/2991195.png" group-title="Series",ENT
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/E50914.png?text=ENT+TV&font=montserrat" group-title="Series",ENT
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/716/716429.png" group-title="Series",Ent Channel
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/E50914.png?text=ENT+CHANNEL&font=montserrat" group-title="Series",Ent Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" group-title="Series",ENT Classic
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/FFC107.png?text=ENT+CLASSIC&font=montserrat" group-title="Series",ENT Classic
 https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3163/3163508.png" group-title="Series",Ent Comedy
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/FF9800.png?text=ENT+COMEDY&font=montserrat" group-title="Series",Ent Comedy
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Series",ENT Drama
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/E91E63.png?text=ENT+DRAMA&font=montserrat" group-title="Series",ENT Drama
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4221/4221419.png" group-title="Series",Ent Family
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/00BCD4.png?text=ENT+FAMILY&font=montserrat" group-title="Series",Ent Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/716/716429.png" group-title="Series",ENT Life
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/8BC34A.png?text=ENT+LIFE&font=montserrat" group-title="Series",ENT Life
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Series",Ent Movies
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/E50914.png?text=ENT+MOVIES&font=montserrat" group-title="Series",Ent Movies
 https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="Series",HBO (Opción 2)
 https://streaming.onnethn.com/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png" group-title="Series",HBO2 (Opción 2)
 https://streaming.onnethn.com/HBO2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Series",Maxcine Movies
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/FF5252.png?text=MAXCINE&font=montserrat" group-title="Series",Maxcine Movies
 https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/716/716429.png" group-title="Series",MI TV
+#EXTINF:-1 tvg-logo="https://placehold.co/400x225/111111/FFFFFF.png?text=MI+TV&font=montserrat" group-title="Series",MI TV
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Series",SONY ACCION
 https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
@@ -133,13 +133,13 @@ https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/
 # ==================== DOCUMENTALES ====================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Documentales",Discovery Channel HD
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-health-ar.png" group-title="Documentales",Discovery H&H HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-home-and-health-br.png" group-title="Documentales",Discovery H&H HD
 http://138.59.227.20:8000/play/a08f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-title="Documentales",Discovery Science
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-science-br.png" group-title="Documentales",Discovery Science
 http://138.59.227.20:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-theater-ar.png" group-title="Documentales",Discovery Theater HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-theater-br.png" group-title="Documentales",Discovery Theater HD
 http://138.59.227.20:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-world-ar.png" group-title="Documentales",Discovery World HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-world-br.png" group-title="Documentales",Discovery World HD
 http://138.59.227.20:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/history-channel-us.png" group-title="Documentales",History Channel
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
