@@ -161,3 +161,10 @@ http://138.59.227.20:8000/play/a08x/index.m3u8
 http://138.59.227.20:8000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="Infantiles",Nick Jr
 http://138.59.227.20:8000/play/a07s/index.m3u8
+
+# ==================== BRASIL ====================
+
+#EXTINF:-1 tvg-logo="https://share.google/VDeqpntnhhShmEIgJ" group-title="BRASIL",SBT
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+
