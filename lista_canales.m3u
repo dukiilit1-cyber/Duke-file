@@ -255,3 +255,18 @@ https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/SpongeBob_SquarePants_logo.svg" group-title="Animation",Bob Esponja
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+
+#EXTINF:-1 group-title="ESTRENOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvQyLMlRrFBXZDJXxoU7LjoF-DSA3H4jUr_Le_B69A8g&s",Resident Evil: La Película
+https://p4.vimeos.zip/hls2/03/00015/sh8lx0kpohau_h/index-v1-a1.m3u8?t=ZCUD1wkjFQco0yRHxzlVoXnl7d7X1FrkYLQnu-KB9G8&s=1794594820&e=43200&v=430456364&srv=s1&i=0.0&sp=0&fr=sh8lx0kpohau&r=e
+
+#EXTINF:-1 group-title="ESTRENOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgNRxdFOnud2OOLmaZVSkSCP5u2ZYL_apHb_0vu6k5-xrGCb9Dsue0ebz&s=10",El Corazón de la Bestia (The Tree of Life)
+https://p6.vimeos.zip/hls2/02/00015/1yw8z6t2l5zo_h/index-v1-a2.m3u8?t=bHP7J3HkDGPlz24tdJLbsauyvGw5FChuVgh8MRVjwaA&s=1794595120&e=43200&v=424907584&srv=s14&i=0.0&sp=0&fr=1yw8z6t2l5zo&r=e
+
+#EXTINF:-1 group-title="ESTRENOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZeHqFmKHTRag1zS-u_ytw6Ty11WrTT-_2F08A21z8-4H3shxu2q2vln49&s=10",Exterminio: El templo de huesos
+https://s14.vimeos.net/hls2/02/00009/sx4thm0tdw5n_h/index-v1-a2.m3u8?t=Dhj8jvCIlX_MMYFF3Camd54CUoJDJUlf2750_UXcSaY&s=1794596160&e=43200&v=430187121&i=0.0&sp=0&fr=sx4thm0tdw5n&r=e
+
+#EXTINF:-1 group-title="ESTRENOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5apLM2KcAK8NRVhqAFE1odSqIdh2na-O6QbP8X1fpFg&s=10",Mortal Kombat II
+https://s8.vimeos.net/hls2/02/00010/1pxcv3b4bd0q_h/index-v1-a1.m3u8?t=ckLcr-qEp3x7Df_-R-zbpG4ef0ntOIGBPxhOSGIIL-o&s=1794596370&e=43200&v=429043949&i=0.0&sp=0&fr=1pxcv3b4bd0q&r=e
+
+#EXTINF:-1 group-title="ESTRENOS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg5NDFkNTctZWE2ZC00MDYzLThlYjItZTljZDY3NTcwNjA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Coyote vs. Acme
+https://p5.vimeos.zip/hls2/02/00015/g1qusk1nbga0_h/index-v1-a1.m3u8?t=S_I5xG3QpHwtaZ0UIxgV_02Jjl5EFzfKSb985aWomu4&s=1794598362&e=43200&v=431821911&srv=s1&i=0.0&sp=0&fr=g1qusk1nbga0&r=e
