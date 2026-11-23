@@ -53,7 +53,7 @@ http://138.59.227.20:8000/play/a075/index.m3u8
 http://138.59.227.20:8000/play/a06h/index.m3u8
 #EXTINF:-1 tvg-id="tnt.hd" tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png" group-title="Películas",TNT HD
 http://138.59.227.20:8000/play/a08b/index.m3u8
-#EXTINF:-1 tvg-id="tnt.novelas.hd" tvg-name="TNT Novelas HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-novelas-ar.png" group-title="Películas",TNT Novelas HD
+#EXTINF:-1 tvg-id="tnt.novelas.hd" tvg-name="TNT Novelas HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LYB62YdcTrEcbJC26PoOlmLLqJ6eCNomp1EkDcSACA&s=10" group-title="Películas",TNT Novelas HD
 http://138.59.227.20:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" tvg-name="HBO Family Latin America (1080p)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/dkvmn7q-44a52c57-32c0-4907-b060-8ec5c2da369e.png/v1/fill/w_1280,h_911/hbo_family_2025_logo_v2_tl_jlm__by_jlmaestro_dkvmn7q-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTExIiwicGF0aCI6Ii9mLzE1MDgxZWJlLWE4NmEtNGQ2Yi05ZmM5LTIzZDlkNzk5YjFhMS9ka3ZtbjdxLTQ0YTUyYzU3LTMyYzAtNDkwNy1iMDYwLThlYzVjMmRhMzY5ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.M9HNEmDqsO4xlLy0_V7VG4fEu33P3BE_ewATUCuGmyg" group-title="Cine y Series",HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
@@ -77,13 +77,13 @@ https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/mast
 https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="sony.accion" tvg-name="SONY ACCION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Series",SONY ACCION
 https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="ent.family" tvg-name="Ent Family" tvg-logo="https://cdn-icons-png.flaticon.com/512/4221/4221419.png" group-title="Series",Ent Family
+#EXTINF:-1 tvg-id="ent.family" tvg-name="Ent Family" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Series",Ent Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ent.comedy" tvg-name="Ent Comedy" tvg-logo="https://cdn-icons-png.flaticon.com/512/3163/3163508.png" group-title="Series",Ent Comedy
+#EXTINF:-1 tvg-id="ent.comedy" tvg-name="Ent Comedy" tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6af63c0f27234.png" group-title="Series",Ent Comedy
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ent.classic" tvg-name="ENT Classic" tvg-logo="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" group-title="Series",ENT Classic
+#EXTINF:-1 tvg-id="ent.classic" tvg-name="ENT Classic" tvg-logo="https://www.40mediagroup.com/channels/ent-classic.webp" group-title="Series",ENT Classic
 https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="sony.cine" tvg-name="SONY CINE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sony-movies-us.png" group-title="Series",SONY CINE
+#EXTINF:-1 tvg-id="sony.cine" tvg-name="SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="Series",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="sony.one.novelas.y.series" tvg-name="SONY ONE |NOVELAS y SERIES|" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Series",SONY ONE |NOVELAS y SERIES|
 https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
