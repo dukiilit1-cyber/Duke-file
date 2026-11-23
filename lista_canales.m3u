@@ -65,11 +65,11 @@ http://138.59.227.20:8000/play/a06f/index.m3u8
 http://138.59.227.20:8000/play/a08r/index.m3u8
 #EXTINF:-1 tvg-id="ent.movies" tvg-name="Ent Movies" tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Series",Ent Movies
 https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ent.drama" tvg-name="ENT Drama" tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Series",ENT Drama
+#EXTINF:-1 tvg-id="ent.drama" tvg-name="ENT Drama" tvg-logo="https://www.40mediagroup.com/channels/ent-drama.webp" group-title="Series",ENT Drama
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="sony.exitos" tvg-name="SONY EXITOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Series",SONY EXITOS
 https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="ent.life" tvg-name="ENT Life" tvg-logo="https://cdn-icons-png.flaticon.com/512/716/716429.png" group-title="Series",ENT Life
+#EXTINF:-1 tvg-id="ent.life" tvg-name="ENT Life" tvg-logo="https://www.40mediagroup.com/channels/ent-life.webp" group-title="Series",ENT Life
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ent" tvg-name="ENT" tvg-logo="https://cdn-icons-png.flaticon.com/512/2991/2991195.png" group-title="Series",ENT
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
