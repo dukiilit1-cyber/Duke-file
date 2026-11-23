@@ -199,6 +199,8 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/456.m3u8|user-agent=Mozilla/5.0 (
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1143.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="canal.2.misiones.1080p" tvg-name="Canal 2 Misiones (1080p)" tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="🇦🇷 Argentina",Canal 2 Misiones (1080p)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-id="el.trece.FHD" tvg-name="El Trece FHD" tvg-logo="https://images-tools.cadena3.com/tools/r/f8836aff-5734-40c1-9fb3-4743fbd0ca39.jpg?width=1200&height=1190" group-title="🇦🇷 Argentina",El Trece FHD
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="el.trece.1080p" tvg-name="El Trece (1080p)" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="🇦🇷 Argentina",El Trece (1080p)
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="a24.1080p" tvg-name="A24 (1080p)" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="🇦🇷 Argentina",A24 (1080p)
@@ -273,6 +275,10 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/307.m3u8|user-agent=Mozilla/5.0 (
 #EXTINF:-1 tvg-id="ranma.1.2.24.7" tvg-name="Ranma 1/2 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Ranma 1/2 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/782.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="SIMPSONS" tvg-name="Simpson 1" tvg-logo="https://images.seeklogo.com/logo-png/53/1/simpsons-logo-png_seeklogo-537127.png" group-title="24/7",LOS SIMPSONS 1
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+#EXTINF:-1 tvg-id="SIMPSONS 2" tvg-name="Simpson 2" tvg-logo="https://images.seeklogo.com/logo-png/53/1/simpsons-logo-png_seeklogo-537127.png" group-title="24/7",LOS SIMPSONS 1
+http://mundo2.pro/live/iker12/iker12/316941.ts
 #EXTINF:-1 tvg-id="el.principe.del.rap.24.7" tvg-name="El Principe del Rap 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",El Principe del Rap 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/357.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
