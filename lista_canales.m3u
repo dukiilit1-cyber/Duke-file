@@ -275,9 +275,9 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/307.m3u8|user-agent=Mozilla/5.0 (
 #EXTINF:-1 tvg-id="ranma.1.2.24.7" tvg-name="Ranma 1/2 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Ranma 1/2 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/782.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="SIMPSONS" tvg-name="Simpson 1" tvg-logo="https://images.seeklogo.com/logo-png/53/1/simpsons-logo-png_seeklogo-537127.png" group-title="24/7",LOS SIMPSONS 1
+#EXTINF:-1 tvg-id="SIMPSONS" tvg-name="Simpson 1" tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2022/04/kksrxw2lgfh4pkp5vovweqtkxy.jpg" group-title="24/7",LOS SIMPSONS 1
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
-#EXTINF:-1 tvg-id="SIMPSONS 2" tvg-name="Simpson 2" tvg-logo="https://images.seeklogo.com/logo-png/53/1/simpsons-logo-png_seeklogo-537127.png" group-title="24/7",LOS SIMPSONS 2
+#EXTINF:-1 tvg-id="SIMPSONS 2" tvg-name="Simpson 2" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/los-simpson-corto-disney-day-1636471915.jpeg?crop=1.00xw:0.801xh;0,0&resize=640:*" group-title="24/7",LOS SIMPSONS 2
 http://mundo2.pro/live/iker12/iker12/316941.ts
 #EXTINF:-1 tvg-id="DORAEMON" tvg-name="DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE2NDkyNjktNDA4MC00OTQ0LTg5ZDYtMjZlYmFhY2JjNGFkXkEyXkFqcGc@._V1_.jpg" group-title="24/7",Doraemon
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/297.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
