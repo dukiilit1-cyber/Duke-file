@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CANAL 7 FHD" tvg-name="Discovery Channel HD" tvg-logo="https://escuchandolasnoticias.com.ar/wp-content/uploads/2026/10/images-2026-10-18T084917.655.jpg" group-title="Documentales",Discovery Channel HD
+#EXTINF:-1 tvg-id="CANAL 7 FHD" tvg-name="CANAL 7 FHD" tvg-logo="https://escuchandolasnoticias.com.ar/wp-content/uploads/2026/10/images-2026-10-18T084917.655.jpg" group-title="ARGENTINA",CANAL 7 FHD
 https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/tvpublica.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="discovery.channel.hd" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Documentales",Discovery Channel HD
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
