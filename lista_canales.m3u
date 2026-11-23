@@ -279,6 +279,8 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/782.m3u8|user-agent=Mozilla/5.0 (
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 #EXTINF:-1 tvg-id="SIMPSONS 2" tvg-name="Simpson 2" tvg-logo="https://images.seeklogo.com/logo-png/53/1/simpsons-logo-png_seeklogo-537127.png" group-title="24/7",LOS SIMPSONS 1
 http://mundo2.pro/live/iker12/iker12/316941.ts
+#EXTINF:-1 tvg-id="DORAEMON" tvg-name="DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE2NDkyNjktNDA4MC00OTQ0LTg5ZDYtMjZlYmFhY2JjNGFkXkEyXkFqcGc@._V1_.jpg" group-title="24/7",LOS SIMPSONS 1
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/297.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="el.principe.del.rap.24.7" tvg-name="El Principe del Rap 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",El Principe del Rap 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/357.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
