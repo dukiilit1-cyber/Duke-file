@@ -71,7 +71,7 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
 https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="ent.life" tvg-name="ENT Life" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2BcCWpDUY_vXO3bN9-hYUj4TTRgKFyRpXKwxz02gN2bWjmHUdn5YqHCw&s=10" group-title="Series",ENT Life
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ent" tvg-name="ENT" tvg-logo="https://cdn-icons-png.flaticon.com/512/2991/2991195.png" group-title="Series",ENT
+#EXTINF:-1 tvg-id="ent" tvg-name="ENT EXTREME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1umKaUe6jBjNUht8DJlBZw2-NM1IbrDggH2MHStHjAIexyhLrMXtWIG4&s=10" group-title="Series",ENT EXTREME 
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="sony.one.comedy" tvg-name="SONY ONE COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Series",SONY ONE COMEDY
 https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
