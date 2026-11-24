@@ -251,28 +251,28 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/579.m3u8|user-agent=Mozilla/5.0 (
 #EXTINF:-1 tvg-id="discovery.civilization" tvg-name="Discovery Civilization" group-title="🌎 Cultura y Documentales",Discovery Civilization
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/252.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="dragon.ball.super.24.7" tvg-name="Dragon Ball Super 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Dragon Ball Super 24/7
+#EXTINF:-1 tvg-id="dragon.ball.super.24.7" tvg-name="Dragon Ball Super 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu43YnH1xzB8t7c8reSN5OaZJmv3FR86te9jThEvlJAw&s=10" group-title="🎌 24/7 - Anime",Dragon Ball Super 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/305.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="pokemon.24.7" tvg-name="Pokemon 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Pokemon 24/7
+#EXTINF:-1 tvg-id="pokemon.24.7" tvg-name="Pokemon 24/7" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/2c/PokemonSerieOriginal.jpg/revision/latest?cb=20200909000101&path-prefix=es" group-title="🎌 24/7 - Anime",Pokemon 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/773.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="caballeros.del.zodiaco.24.7" tvg-name="Caballeros del Zodiaco 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Caballeros del Zodiaco 24/7
+#EXTINF:-1 tvg-id="caballeros.del.zodiaco.24.7" tvg-name="Caballeros del Zodiaco 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk4YjM1NWEtZTdjOS00YTU2LTg3OGQtMGE3Y2RlMTY3ZTM4XkEyXkFqcGc@._V1_.jpg" group-title="🎌 24/7 - Anime",Caballeros del Zodiaco 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/100.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="naruto.24.7" tvg-name="Naruto 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Naruto 24/7
+#EXTINF:-1 tvg-id="naruto.24.7" tvg-name="Naruto 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTNjOWI0ZTAtOGY1OS00ZGU0LWEyOWYtMjhkYjdlYmVjMDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🎌 24/7 - Anime",Naruto 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/702.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="samurai.x.24.7" tvg-name="Samurai X 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Samurai X 24/7
+#EXTINF:-1 tvg-id="samurai.x.24.7" tvg-name="Samurai X 24/7" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9d/Samur%C3%A1i_X.jpg/revision/latest?cb=20190815194619&path-prefix=es" group-title="🎌 24/7 - Anime",Samurai X 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/802.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="sakura.card.captor.24.7" tvg-name="Sakura Card Captor 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Sakura Card Captor 24/7
+#EXTINF:-1 tvg-id="sakura.card.captor.24.7" tvg-name="Sakura Card Captor 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTllNzI2NTQtZWJlYi00YTJlLWFlZDYtODZmMGJkN2NmMWY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🎌 24/7 - Anime",Sakura Card Captor 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/800.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="dragon.ball.z.24.7" tvg-name="Dragon Ball Z 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Dragon Ball Z 24/7
+#EXTINF:-1 tvg-id="dragon.ball.z.24.7" tvg-name="Dragon Ball Z 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VlNTdlMzQtYzE5OC00YmYwLTgyZTItYjEzMWY0ZDNjMTJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🎌 24/7 - Anime",Dragon Ball Z 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/307.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="ranma.1.2.24.7" tvg-name="Ranma 1/2 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Ranma 1/2 24/7
+#EXTINF:-1 tvg-id="ranma.1.2.24.7" tvg-name="Ranma 1/2 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcOkn6wIYL-uWGMA_NdJQEAvjwD9tLzekafU94JZAKNjB-sRAeNOAE92o&s=10" group-title="🎌 24/7 - Anime",Ranma 1/2 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/782.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="SIMPSONS" tvg-name="Simpson 1" tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2022/04/kksrxw2lgfh4pkp5vovweqtkxy.jpg" group-title="24/7",LOS SIMPSONS 1
@@ -281,40 +281,40 @@ http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 http://mundo2.pro/live/iker12/iker12/316941.ts
 #EXTINF:-1 tvg-id="DORAEMON" tvg-name="DORAEMON" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE2NDkyNjktNDA4MC00OTQ0LTg5ZDYtMjZlYmFhY2JjNGFkXkEyXkFqcGc@._V1_.jpg" group-title="24/7",Doraemon
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/297.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="el.principe.del.rap.24.7" tvg-name="El Principe del Rap 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",El Principe del Rap 24/7
+#EXTINF:-1 tvg-id="el.principe.del.rap.24.7" tvg-name="El Principe del Rap 24/7" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c07c9426254b51744690ac29be0e3e5e6607262d4bf0c593268bb922d4fe5725.jpg" group-title="🎌 24/7 - Anime",El Principe del Rap 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/357.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="one.punch.man.24.7" tvg-name="One Punch Man 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",One Punch Man 24/7
+#EXTINF:-1 tvg-id="one.punch.man.24.7" tvg-name="One Punch Man 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMwOGQ5MWItNzE3My00ZDYyLTk4NzAtZWIyYWI0NTZhYzY0XkEyXkFqcGc@._V1_.jpg" group-title="🎌 24/7 - Anime",One Punch Man 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/744.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="yu.gi.oh.24.7" tvg-name="Yu-Gi-Oh! 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Yu-Gi-Oh! 24/7
+#EXTINF:-1 tvg-id="yu.gi.oh.24.7" tvg-name="Yu-Gi-Oh! 24/7" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/7/7c/YuGiOh.jpg/revision/latest?cb=20220802032846&path-prefix=es" group-title="🎌 24/7 - Anime",Yu-Gi-Oh! 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1052.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="duelo.xiaolin.24.7" tvg-name="Duelo Xiaolin 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Duelo Xiaolin 24/7
+#EXTINF:-1 tvg-id="duelo.xiaolin.24.7" tvg-name="Duelo Xiaolin 24/7" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/98/558295xiaolin-showdown-raimundo-omi-300-032707.jpg/revision/latest?cb=20241202210014&path-prefix=es" group-title="🎌 24/7 - Anime",Duelo Xiaolin 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/330.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="super.campeones.24.7" tvg-name="Super Campeones 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Super Campeones 24/7
+#EXTINF:-1 tvg-id="super.campeones.24.7" tvg-name="Super Campeones 24/7" tvg-logo="https://static.wikia.nocookie.net/wikiseriesjaponesas/images/6/6f/Dvd-los-supercampeones-serie-animada-super-campeones-oliver-17097-MLC20132238145_072014-F.jpg/revision/latest?cb=20160710181041&path-prefix=es" group-title="🎌 24/7 - Anime",Super Campeones 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/850.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="dragon.ball.24.7" tvg-name="Dragon Ball 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Dragon Ball 24/7
+#EXTINF:-1 tvg-id="dragon.ball.24.7" tvg-name="Dragon Ball 24/7" tvg-logo="https://sm.ign.com/ign_latam/cover/d/dragon-bal/dragon-ball-daima_ez45.jpg" group-title="🎌 24/7 - Anime",Dragon Ball 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/301.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="dragon.ball.gt.24.7" tvg-name="Dragon Ball GT 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎌 24/7 - Anime",Dragon Ball GT 24/7
+#EXTINF:-1 tvg-id="dragon.ball.gt.24.7" tvg-name="Dragon Ball GT 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq6KbsoZBHnejVGU4YHQQCGlxOmRiOSvNEzurAhLNbXw&s=10" group-title="🎌 24/7 - Anime",Dragon Ball GT 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/303.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="smallville.24.7" tvg-name="Smallville 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎞️ 24/7 - Series",Smallville 24/7
+#EXTINF:-1 tvg-id="smallville.24.7" tvg-name="Smallville 24/7" tvg-logo="https://m.media-amazon.com/images/I/719hq8g2L4L._AC_UF894,1000_QL80_.jpg" group-title="🎞️ 24/7 - Series",Smallville 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/812.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="los.expedientes.secretos.x.24.7" tvg-name="Los Expedientes Secretos X 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎞️ 24/7 - Series",Los Expedientes Secretos X 24/7
+#EXTINF:-1 tvg-id="los.expedientes.secretos.x.24.7" tvg-name="Los Expedientes Secretos X 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg3ODVhZWEtYmI0MC00NDQ0LWEyNGYtM2M0MTRhZTZmMjU3XkEyXkFqcGc@._V1_.jpg" group-title="🎞️ 24/7 - Series",Los Expedientes Secretos X 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/623.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="elementary.24.7" tvg-name="Elementary 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎞️ 24/7 - Series",Elementary 24/7
+#EXTINF:-1 tvg-id="elementary.24.7" tvg-name="Elementary 24/7" tvg-logo="https://static.wikia.nocookie.net/sherlockholmes/images/a/ab/Elementary.jpg/revision/latest?cb=20140117190742&path-prefix=es" group-title="🎞️ 24/7 - Series",Elementary 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/363.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="caso.cerrado.24.7" tvg-name="Caso Cerrado 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎞️ 24/7 - Series",Caso Cerrado 24/7
+#EXTINF:-1 tvg-id="caso.cerrado.24.7" tvg-name="Caso Cerrado 24/7" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2025-04/CASOCERRADO-f78bac.jpg" group-title="🎞️ 24/7 - Series",Caso Cerrado 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/138.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="game.of.thrones.24.7" tvg-name="Game of Thrones 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎞️ 24/7 - Series",Game of Thrones 24/7
+#EXTINF:-1 tvg-id="game.of.thrones.24.7" tvg-name="Game of Thrones 24/7" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v12_ax.jpg" group-title="🎞️ 24/7 - Series",Game of Thrones 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/484.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="cine.accion.sagas.hd" tvg-name="Cine Accion Sagas HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png" group-title="🎬 Cine - Acción",Cine Accion Sagas HD
@@ -350,22 +350,22 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/170.m3u8|user-agent=Mozilla/5.0 (
 #EXTINF:-1 tvg-id="cine.infantil.sagas" tvg-name="Cine Infantil Sagas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png" group-title="🎬 Cine - Infantil",Cine Infantil Sagas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/171.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="cine.marvel.hd" tvg-name="Cine Marvel HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png" group-title="🎬 Cine - Marvel",Cine Marvel HD
+#EXTINF:-1 tvg-id="cine.marvel.hd" tvg-name="Cine Marvel HD" tvg-logo="https://integralatampost.s3.amazonaws.com/uploads/article/picture/19238/2019-10-12_23_592019-10-12_23_4620191013_Pel%C3%ADculas-de-Marvel-_son-cine-o-no.jpg" group-title="🎬 Cine - Marvel",Cine Marvel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/177.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="cine.zombis.hd" tvg-name="Cine Zombis HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/cinema1.png" group-title="🎬 Cine - Terror y Zombis",Cine Zombis HD
+#EXTINF:-1 tvg-id="cine.zombis.hd" tvg-name="Cine Zombis HD" tvg-logo="https://img.redbull.com/images/c_crop,x_526,y_0,h_1313,w_985/c_fill,w_450,h_600/q_auto,f_auto/redbullcom/2019/10/24/3b616df5-9b97-4aec-a396-f15fa02dc1b2/walking-dead" group-title="🎬 Cine - Terror y Zombis",Cine Zombis HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/184.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="chapulin.colorado.24.7" tvg-name="Chapulin Colorado 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎭 24/7 - Chespirito y Clásicos",Chapulin Colorado 24/7
+#EXTINF:-1 tvg-id="chapulin.colorado.24.7" tvg-name="Chapulin Colorado 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JmNTAzMDAtMTVkMi00NjNmLWJhYTktZmQ2ZjZkMGM1NzU4XkEyXkFqcGc@._V1_.jpg" group-title="🎭 24/7 ",Chapulin Colorado 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/152.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="los.chicos.del.barrio.24.7" tvg-name="Los Chicos del Barrio 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎭 24/7 - Chespirito y Clásicos",Los Chicos del Barrio 24/7
+#EXTINF:-1 tvg-id="los.chicos.del.barrio.24.7" tvg-name="Los Chicos del Barrio 24/7" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/10f114bd96cbfc0c94d1ad7ff1903db05471af8b488e0c76cfaa544297787272.jpg" group-title="🎭 24/7 ",Los Chicos del Barrio 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/622.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="chespirito.24.7" tvg-name="Chespirito 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎭 24/7 - Chespirito y Clásicos",Chespirito 24/7
+#EXTINF:-1 tvg-id="chespirito.24.7" tvg-name="Chespirito 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwzx1lmvI1UCTY0U902uST6blqtyqjlCl_CRHBUTXt8MF_ws3Uf7vjWcA&s=10" group-title="🎭 24/7 - Chespirito y Clásicos",Chespirito 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/153.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="cantiflas.24.7" tvg-name="Cantiflas 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🎭 24/7 - Chespirito y Clásicos",Cantiflas 24/7
+#EXTINF:-1 tvg-id="cantiflas.24.7" tvg-name="Cantiflas 24/7" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e6df058557b5fe1dfef2b034ccf93b0087f52d062e9911984e1fad226e0c3b3f.jpg" group-title="🎭 24/7 - Chespirito y Clásicos",Cantiflas 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/123.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="todo.noticias.tn" tvg-name="Todo Noticias (TN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tn-todo-noticias-ar.png" group-title="📰 Noticias",Todo Noticias (TN)
@@ -395,31 +395,31 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1068.m3u8|user-agent=Mozilla/5.0 
 #EXTINF:-1 tvg-id="las.estrellas" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png" group-title="📺 TV México",Las Estrellas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/118.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="family.guy.padre.de.familia.24.7" tvg-name="Family Guy (Padre de Familia) 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🔞 24/7 - Animación Adulta",Family Guy (Padre de Familia) 24/7
+#EXTINF:-1 tvg-id="family.guy.padre.de.familia.24.7" tvg-name="Family Guy (Padre de Familia) 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZlMGQ1YjEtMzVlNC00ZmMxLTk0MzgtZjdkYTU1NmUxNTQ0XkEyXkFqcGc@._V1_.jpg" group-title="🔞 24/7 - Animación Adulta",Family Guy (Padre de Familia) 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/747.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="malcom.hd.24.7" tvg-name="Malcom HD 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="😂 24/7 - Series de Comedia",Malcom HD 24/7
+#EXTINF:-1 tvg-id="malcom.hd.24.7" tvg-name="Malcom HD 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2M0Y2M4YTQtZDdjMC00MDZiLWI1OGEtZDdjZjBiZDE4ODU3XkEyXkFqcGc@._V1_.jpg" group-title="😂 24/7 - Series de Comedia",Malcom HD 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/641.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="the.big.bang.theory.24.7" tvg-name="The Big Bang Theory 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="😂 24/7 - Series de Comedia",The Big Bang Theory 24/7
+#EXTINF:-1 tvg-id="the.big.bang.theory.24.7" tvg-name="The Big Bang Theory 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYixoV-M__J_VAk0PsurVbhHJsBLq88x6fcTT1r8GkKOZsJ5Kw0XN0FjU&s=10" group-title="😂 24/7 - Series de Comedia",The Big Bang Theory 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/899.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="two.and.a.half.men.24.7" tvg-name="Two And a Half Men 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="😂 24/7 - Series de Comedia",Two And a Half Men 24/7
+#EXTINF:-1 tvg-id="two.and.a.half.men.24.7" tvg-name="Two And a Half Men 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI2ZDMyNGEtNmIwOS00NTI1LThlZDctYzYzYmE3NDNlNTJlXkEyXkFqcGc@._V1_.jpg" group-title="😂 24/7 - Series de Comedia",Two And a Half Men 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/973.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="malcolm.24.7" tvg-name="Malcolm 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="😂 24/7 - Series de Comedia",Malcolm 24/7
+#EXTINF:-1 tvg-id="malcolm.24.7" tvg-name="Malcolm 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKdOUqk4Req7OjNm6B1_wIdD3wTjWbtDIK2RUOS27EBg&s=10" group-title="😂 24/7 - Series de Comedia",Malcolm 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/640.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="los.3.chiflados.24.7" tvg-name="Los 3 Chiflados 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="😂 24/7 - Series de Comedia",Los 3 Chiflados 24/7
+#EXTINF:-1 tvg-id="los.3.chiflados.24.7" tvg-name="Los 3 Chiflados 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIqUtKaW7g7t4nUiQtKz4eZGJkENdjxWCt2Grz6r_3GwDYf_qAG-VP-IsU&s=10" group-title="😂 24/7 - Series de Comedia",Los 3 Chiflados 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/619.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="nosotros.los.guapos.24.7" tvg-name="Nosotros Los Guapos 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="😂 24/7 - Series de Comedia",Nosotros Los Guapos 24/7
+#EXTINF:-1 tvg-id="nosotros.los.guapos.24.7" tvg-name="Nosotros Los Guapos 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BODcwMjJmYzAtMmJmNi00MjMxLWJhZTItOTY5OTRkY2E2YTRmXkEyXkFqcGc@._V1_.jpg" group-title="😂 24/7 - Series de Comedia",Nosotros Los Guapos 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/739.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="mr.bean.24.7" tvg-name="Mr.Bean 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="😂 24/7 - Series de Comedia",Mr.Bean 24/7
+#EXTINF:-1 tvg-id="mr.bean.24.7" tvg-name="Mr.Bean 24/7" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a9/MrBean.jpg/revision/latest?cb=20240226013519&path-prefix=es" group-title="😂 24/7 - Series de Comedia",Mr.Bean 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/670.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="friends.24.7" tvg-name="Friends 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="😂 24/7 - Series de Comedia",Friends 24/7
+#EXTINF:-1 tvg-id="friends.24.7" tvg-name="Friends 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaLpwuFU1zvU2Vqf-G6t53lELvxt8rO_uuKvLmKneaqA&s=10" group-title="😂 24/7 - Series de Comedia",Friends 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/470.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tooncast-ar.png" group-title="🧒 Canales Infantiles",Tooncast
@@ -437,97 +437,97 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/748.m3u8|user-agent=Mozilla/5.0 (
 #EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cartoonito-lam.png" group-title="🧒 Canales Infantiles",Cartoonito
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/134.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="johnny.bravo.24.7" tvg-name="Johnny Bravo 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Johnny Bravo 24/7
+#EXTINF:-1 tvg-id="johnny.bravo.24.7" tvg-name="Johnny Bravo 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2M5YjYxZTktYzIzNi00MjkxLTljYTEtYjllNWY3Y2RkMTYwXkEyXkFqcGc@._V1_.jpg" group-title="🧸 24/7 - Dibujos Animados",Johnny Bravo 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/584.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="los.pinguinos.de.madagascar.24.7" tvg-name="Los Pinguinos de Madagascar 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Los Pinguinos de Madagascar 24/7
+#EXTINF:-1 tvg-id="los.pinguinos.de.madagascar.24.7" tvg-name="Los Pinguinos de Madagascar 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFW1W-BuamEKkt3lzb_0JP7ABrpOznp4QXIe-NK_aJHEvTAlC7SNj8gVFv&s=10" group-title="🧸 24/7 - Dibujos Animados",Los Pinguinos de Madagascar 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/626.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="la.casa.de.los.dibujos.24.7" tvg-name="La Casa de los Dibujos 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",La Casa de los Dibujos 24/7
+#EXTINF:-1 tvg-id="la.casa.de.los.dibujos.24.7" tvg-name="La Casa de los Dibujos 24/7" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/27/Casa_de_los_dibujos_%28LA%29.JPG/revision/latest?cb=20240203172305&path-prefix=es" group-title="🧸 24/7 - Dibujos Animados",La Casa de los Dibujos 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/590.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="los.pitufos.24.7" tvg-name="Los Pitufos 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Los Pitufos 24/7
+#EXTINF:-1 tvg-id="los.pitufos.24.7" tvg-name="Los Pitufos 24/7" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/14e006cf4322cdd85112005be6ddf86b5fe951f6e30441a96cdd936e126ee2b7.jpg" group-title="🧸 24/7 - Dibujos Animados",Los Pitufos 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/627.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="los.picapiedras.24.7" tvg-name="Los Picapiedras 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Los Picapiedras 24/7
+#EXTINF:-1 tvg-id="los.picapiedras.24.7" tvg-name="Los Picapiedras 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz49MyEzc-rFrKOD1staDQVUtlHtaSUDqVLdzRwCUkT3AiNKJieHxCGgYP&s=10" group-title="🧸 24/7 - Dibujos Animados",Los Picapiedras 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/625.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="rugrats.crecidos.24.7" tvg-name="Rugrats Crecidos 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Rugrats Crecidos 24/7
+#EXTINF:-1 tvg-id="rugrats.crecidos.24.7" tvg-name="Rugrats Crecidos 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD5FfGs85ASlkAKdTqKrexR3tH3G4TTPi66KbHUGkgpA&s=10" group-title="🧸 24/7 - Dibujos Animados",Rugrats Crecidos 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/798.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="hey.arnold.24.7" tvg-name="Hey Arnold 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Hey Arnold 24/7
+#EXTINF:-1 tvg-id="hey.arnold.24.7" tvg-name="Hey Arnold 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhiYTYwM2QtNTlmNy00MGM1LTllM2UtOGJmZTUxMmJmZjdiXkEyXkFqcGc@._V1_.jpg" group-title="🧸 24/7 - Dibujos Animados",Hey Arnold 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/551.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="ragrats.24.7" tvg-name="Ragrats 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Ragrats 24/7
+#EXTINF:-1 tvg-id="ragrats.24.7" tvg-name="Ragrats 24/7" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p184031_b_v8_ab.jpg" group-title="🧸 24/7 - Dibujos Animados",Ragrats 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/797.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="garfield.24.7" tvg-name="Garfield 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Garfield 24/7
+#EXTINF:-1 tvg-id="garfield.24.7" tvg-name="Garfield 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzUwQjNh9RFYdTAdxBVkrnQ1EOHiTxSlZXzWXcG2HGZgt9t7PkibktBEg&s=10" group-title="🧸 24/7 - Dibujos Animados",Garfield 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/486.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="pinky.y.cerebro.24.7" tvg-name="Pinky y Cerebro 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Pinky y Cerebro 24/7
+#EXTINF:-1 tvg-id="pinky.y.cerebro.24.7" tvg-name="Pinky y Cerebro 24/7" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0c/Pinky_y_Cerebro.jpg/revision/latest?cb=20221114235020&path-prefix=es" group-title="🧸 24/7 - Dibujos Animados",Pinky y Cerebro 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/771.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="peppa.pig.24.7" tvg-name="Peppa Pig 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Peppa Pig 24/7
+#EXTINF:-1 tvg-id="peppa.pig.24.7" tvg-name="Peppa Pig 24/7" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c5279030ff206843476010ba72eb0c08def7a0cc636bbdd82a369e1de8f8a1f1.jpg" group-title="🧸 24/7 - Dibujos Animados",Peppa Pig 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/760.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="trollhunters.24.7" tvg-name="TrollHunters 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",TrollHunters 24/7
+#EXTINF:-1 tvg-id="trollhunters.24.7" tvg-name="TrollHunters 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZkYzQzZTMtMjhkOS00ZDNmLTkyNzAtMWZiZmVmZjQyNDJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🧸 24/7 - Dibujos Animados",TrollHunters 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/945.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="hercules.24.7" tvg-name="Hercules 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Hercules 24/7
+#EXTINF:-1 tvg-id="hercules.24.7" tvg-name="Hercules 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-otsZlrlV6VSgBVVkbI8wz3rtFkW6eSA36YjpRKWI2A&s=10" group-title="🧸 24/7 - Dibujos Animados",Hercules 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/550.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="el.gallo.claudio.24.7" tvg-name="El Gallo Claudio 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",El Gallo Claudio 24/7
+#EXTINF:-1 tvg-id="el.gallo.claudio.24.7" tvg-name="El Gallo Claudio 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NfN_bx28ZE-3pokf1JfZKT0PxgY81DbQ8lfAP4OYvbhOLnpgNNS3qGc&s=10" group-title="🧸 24/7 - Dibujos Animados",El Gallo Claudio 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/347.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="patoaventuras.24.7" tvg-name="Patoaventuras 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Patoaventuras 24/7
+#EXTINF:-1 tvg-id="patoaventuras.24.7" tvg-name="Patoaventuras 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdkZTY1MmYtZmVhMi00YmMwLWI3NGUtNzI4ODc4Nzk4Y2NhXkEyXkFqcGc@._V1_.jpg" group-title="🧸 24/7 - Dibujos Animados",Patoaventuras 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/758.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="tom.y.jerry" tvg-name="Tom y Jerry" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Tom y Jerry
+#EXTINF:-1 tvg-id="tom.y.jerry" tvg-name="Tom y Jerry" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/4f995dde6b43fbe45bab9336476a66df17cc83270f06bc5e73492d21edcf7bef.jpg" group-title="🧸 24/7 - Dibujos Animados",Tom y Jerry
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/940.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="dinosuarios.24.7" tvg-name="Dinosuarios 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Dinosuarios 24/7
+#EXTINF:-1 tvg-id="dinosuarios.24.7" tvg-name="Dinosuarios 24/7" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/8b/Dinosaurs.jpg/revision/latest?cb=20211005151230&path-prefix=es" group-title="🧸 24/7 - Dibujos Animados",Dinosuarios 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/244.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="scooby.doo.24.7" tvg-name="Scooby Doo 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Scooby Doo 24/7
+#EXTINF:-1 tvg-id="scooby.doo.24.7" tvg-name="Scooby Doo 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDcL72Ue20YBaFuwHDTp3eaPfqTxSurXn-eMbHS5Db5w&s=10" group-title="🧸 24/7 - Dibujos Animados",Scooby Doo 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/804.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="doug.24.7" tvg-name="Doug 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Doug 24/7
+#EXTINF:-1 tvg-id="doug.24.7" tvg-name="Doug 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhkZWMxZTQtMjMyNC00NjU2LWE2NTUtNzg3YzI5NTY3NjBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🧸 24/7 - Dibujos Animados",Doug 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/298.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="yogui.24.7" tvg-name="Yogui 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Yogui 24/7
+#EXTINF:-1 tvg-id="los autos locos.24.7" tvg-name="los autos locos 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7EXmGLMmihngr78zSo7qAayFg9bd7kiYOXJvJTHFiroapfGJYCDX790b&s=10" group-title="🧸 24/7 - Dibujos Animados",los autos locos 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1051.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="el.pajaro.loco.24.7" tvg-name="El Pajaro Loco 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",El Pajaro Loco 24/7
+#EXTINF:-1 tvg-id="el.pajaro.loco.24.7" tvg-name="El Pajaro Loco 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbbBP6HbnMHYhpvOY4plCzvTVOio320YiIl4iEAHBB2CFmP7chMUA6_EU&s=10" group-title="🧸 24/7 - Dibujos Animados",El Pajaro Loco 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/355.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="coraje.el.perro.cobarde.24.7" tvg-name="Coraje el Perro Cobarde 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Coraje el Perro Cobarde 24/7
+#EXTINF:-1 tvg-id="coraje.el.perro.cobarde.24.7" tvg-name="Coraje el Perro Cobarde 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk9H4Yt4VV1Ktow5Pqf6uyEpoQkBxdG4KLQKRW1c3Y4Vqu71vP7HPquC8D&s=10" group-title="🧸 24/7 - Dibujos Animados",Coraje el Perro Cobarde 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/223.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="ed.edd.y.eddy.24.7" tvg-name="Ed Edd y Eddy 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Ed, Edd y Eddy 24/7
+#EXTINF:-1 tvg-id="ed.edd.y.eddy.24.7" tvg-name="Ed Edd y Eddy 24/7" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/25/10/15/5039486.png" group-title="🧸 24/7 - Dibujos Animados",Ed, Edd y Eddy 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/339.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="el.pato.darkwing.24.7" tvg-name="El Pato Darkwing 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",El Pato Darkwing 24/7
+#EXTINF:-1 tvg-id="el.pato.darkwing.24.7" tvg-name="El Pato Darkwing 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BODdhNTM2ZWYtZGUxOS00OTY2LWE1NjktZTQ4MGZhODFlODg3XkEyXkFqcGc@._V1_.jpg" group-title="🧸 24/7 - Dibujos Animados",El Pato Darkwing 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/356.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="alf.24.7" tvg-name="Alf 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Alf 24/7
+#EXTINF:-1 tvg-id="alf.24.7" tvg-name="Alf 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM5ZWQ1MmItMzk1My00NjhmLWE1NGMtN2E2ZmM4YmE3NWVkXkEyXkFqcGc@._V1_.jpg" group-title="🧸 24/7 - Dibujos Animados",Alf 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/28.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="la.pantera.rosa.24.7" tvg-name="La Pantera Rosa 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",La Pantera Rosa 24/7
+#EXTINF:-1 tvg-id="la.pantera.rosa.24.7" tvg-name="La Pantera Rosa 24/7" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/f1f3718055ffeb877609875855b48712365e5534a2ade20f18045fe3323f4896.jpg" group-title="🧸 24/7 - Dibujos Animados",La Pantera Rosa 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/597.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="calabozos.y.dragones.24.7" tvg-name="Calabozos y Dragones 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Calabozos y Dragones 24/7
+#EXTINF:-1 tvg-id="calabozos.y.dragones.24.7" tvg-name="Calabozos y Dragones 24/7" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a0/CyD.jpg/revision/latest?cb=20200611210654&path-prefix=es" group-title="🧸 24/7 - Dibujos Animados",Calabozos y Dragones 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/103.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="bob.esponja" tvg-name="Bob Esponja" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Bob Esponja
+#EXTINF:-1 tvg-id="bob.esponja" tvg-name="Bob Esponja" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx9GKrBST_yxFydpbeAcSuK6iJgkAREBTGIG5nhqkqlEoiK0XvKY9NxKU7&s=10" group-title="🧸 24/7 - Dibujos Animados",Bob Esponja
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/96.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="las.chicas.super.poderosas.24.7" tvg-name="Las Chicas Super Poderosas 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Las Chicas Super Poderosas 24/7
+#EXTINF:-1 tvg-id="las.chicas.super.poderosas.24.7" tvg-name="Las Chicas Super Poderosas 24/7" tvg-logo="https://media.glamour.mx/photos/6190685ca6e030d6480f7fa3/master/w_1600%2Cc_limit/235250.jpg" group-title="🧸 24/7 - Dibujos Animados",Las Chicas Super Poderosas 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/608.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="looney.tunes.24.7" tvg-name="Looney Tunes 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Looney Tunes 24/7
+#EXTINF:-1 tvg-id="looney.tunes.24.7" tvg-name="Looney Tunes 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEm5GXmoOlZaGyrFkHXvjD2hmNn5Jq7xP_ySbu5ya8Al8nf5bHqKh-ZoMM&s=10" group-title="🧸 24/7 - Dibujos Animados",Looney Tunes 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/618.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="las.aventuras.de.tom.sawyer.24.7" tvg-name="Las Aventuras de Tom Sawyer 24/7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/24-7/neon1-247.png" group-title="🧸 24/7 - Dibujos Animados",Las Aventuras de Tom Sawyer 24/7
+#EXTINF:-1 tvg-id="las.aventuras.de.tom.sawyer.24.7" tvg-name="Las Aventuras de Tom Sawyer 24/7" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0d/Lasaventuras_de_Tom_Sawyer_%281980%29.jpg/revision/latest/thumbnail/width/360/height/360?cb=20100924222012&path-prefix=es" group-title="🧸 24/7 - Dibujos Animados",Las Aventuras de Tom Sawyer 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/607.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 
