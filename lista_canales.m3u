@@ -41,7 +41,7 @@ http://45.171.64.30:6060/play/a014/index.m3u8
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="paramount.hd" tvg-name="Paramount HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="Películas",Paramount HD
 http://138.59.227.20:8000/play/a073/index.m3u8
-#EXTINF:-1 tvg-id="hbo.2" tvg-name="HBO 2 opción ppr lss
+#EXTINF:-1 tvg-id="hbo.2" tvg-name="HBO 2 op 2 por 
 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png" group-title="Películas",HBO 2
 http://15.204.246.24:8080/HBO2HD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.2" tvg-name="HBO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png" group-title="Películas",HBO
