@@ -47,7 +47,7 @@ http://15.204.246.24:8080/HBO2HD/index.m3u8
 #EXTINF:-1 tvg-id="hbo.2" tvg-name="HBO " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png" group-title="Películas",HBO
 http://138.59.227.20:8000/play/a07o/index.m3u8
 #EXTINF:-1 tvg-id="hbo.plus" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-plus-br.png" group-title="Películas",HBO Plus
-http://138.59.227.20:8000/play/a07n/index.m3u8
+http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.hd" tvg-name="Cinecanal HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e51c6897695135.Y3JvcCw2MTIsNDc5LDUzMiwxMTg.png" group-title="Películas",Cinecanal HD
 http://138.59.227.20:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="space.hd" tvg-name="Space HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png" group-title="Películas",Space HD
