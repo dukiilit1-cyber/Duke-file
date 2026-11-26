@@ -526,6 +526,8 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/103.m3u8|user-agent=Mozilla/5.0 (
 #EXTINF:-1 tvg-id="bob.esponja" tvg-name="Bob Esponja" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx9GKrBST_yxFydpbeAcSuK6iJgkAREBTGIG5nhqkqlEoiK0XvKY9NxKU7&s=10" group-title="🧸 24/7 - Dibujos Animados",Bob Esponja
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/96.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us" tvg-name=" Bob Esponja2 HD" tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/14/13/28/226531.jpg" tvg-language="spa" group-title="Kids",🌎 Bob Esponja2 HD
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-id="las.chicas.super.poderosas.24.7" tvg-name="Las Chicas Super Poderosas 24/7" tvg-logo="https://media.glamour.mx/photos/6190685ca6e030d6480f7fa3/master/w_1600%2Cc_limit/235250.jpg" group-title="🧸 24/7 - Dibujos Animados",Las Chicas Super Poderosas 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/608.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
