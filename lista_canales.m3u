@@ -241,6 +241,8 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/274.m3u8|user-agent=Mozilla/5.0 (
 #EXTINF:-1 tvg-id="animal.planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/animal-planet-ar.png" group-title="🌎 Cultura y Documentales",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/41.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="🌎 Animal Planet Op2 (HD)" tvg-logo="https://tye-strapi-assets.s3.amazonaws.com/images-legacy/animalplanet1202.jpg" tvg-language="spa" group-title="Documentary",🌎 Animal Planet op2(HD) 
+http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-id="nat.geo.wild" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/national-geographic-wild-ar.png" group-title="🌎 Cultura y Documentales",Nat Geo Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/709.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
