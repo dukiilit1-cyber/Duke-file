@@ -216,6 +216,8 @@ https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 http://138.59.227.20:8000/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="tn.1080p" tvg-name="TN " tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="🇦🇷 Argentina",TN 🇦🇷
 http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+#EXTINF:-1 tvg-id="tnt.sports.hd" tvg-name="TNT Sports p 2HD " tvg-logo="https://www.gtd.cl/documents/862366/16253341/TntSportsPremium.jpg/8c93110a-7a4e-0f4e-6138-19a59b44fd8a?t=1771872214509" group-title="🇦🇷 Deportes",TNT Sport P 2HD
+http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-id="tnt.sports.hd" tvg-name="TNT Sports HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png" group-title="🇦🇷 Deportes",TNT Sports HD
 http://138.59.227.20:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="espn.2.ar" tvg-name="ESPN 2 AR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="🇦🇷 Deportes",ESPN 2 AR
