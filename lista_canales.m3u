@@ -146,7 +146,7 @@ http://138.59.227.20:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-id="tnt.novelas.hd" tvg-name="TNT Novelas HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LYB62YdcTrEcbJC26PoOlmLLqJ6eCNomp1EkDcSACA&s=10" group-title="🎬 Películas y HBO",TNT Novelas HD
 http://138.59.227.20:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.hd" tvg-name="Cinecanal HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e51c6897695135.Y3JvcCw2MTIsNDc5LDUzMiwxMTg.png" group-title="🎬 Películas y HBO",Cinecanal HD
-http://138.59.227.20:8000/play/a089/index.m3u8
+http://15.204.246.24:8080/CinecanalHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="space.hd" tvg-name="Space HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png" group-title="🎬 Películas y HBO",Space HD
 http://45.171.64.30:6060/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="film.arts.hd" tvg-name="Film & Arts HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/film-arts-ar.png" group-title="🎬 Películas y HBO",Film & Arts HD
