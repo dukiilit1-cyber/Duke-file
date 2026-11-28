@@ -226,7 +226,7 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ent.life" tvg-name="ENT Life" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2BcCWpDUY_vXO3bN9-hYUj4TTRgKFyRpXKwxz02gN2bWjmHUdn5YqHCw&s=10" group-title="📺 Series y Entretenimiento",ENT Life
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ent" tvg-name="ENT EXTREME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1umKaUe6jBjNUht8DJlBZw2-NM1IbrDggH2MHStHjAIexyhLrMXtWIG4&s=10" group-title="📺 Series y Entretenimiento",ENT
+#EXTINF:-1 tvg-id="ent" tvg-name="ENT EXTREME" tvg-logo="https://www.chiletvapp.com/panel/uploads/mobile_6af63ba69db37.png" group-title="📺 Series y Entretenimiento",ENT
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ent.family" tvg-name="Ent Family" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="📺 Series y Entretenimiento",Ent Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
