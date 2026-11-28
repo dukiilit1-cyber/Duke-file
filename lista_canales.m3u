@@ -220,7 +220,7 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/177.m3u8|user-agent=Mozilla/5.0 (
 #EXTINF:-1 tvg-id="cine.zombis.hd" tvg-name="Cine Zombis HD" tvg-logo="https://img.redbull.com/images/c_crop,x_526,y_0,h_1313,w_985/c_fill,w_450,h_600/q_auto,f_auto/redbullcom/2019/10/24/3b616df5-9b97-4aec-a396-f15fa02dc1b2/walking-dead" group-title="🎬 Cine - Terror y Zombis",Cine Zombis HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/184.m3u8|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="ent.movies" tvg-name="Ent Movies" tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="📺 Series y Entretenimiento",Ent Movies
+#EXTINF:-1 tvg-id="ent.movies" tvg-name="Ent Movies" tvg-logo="https://www.40mediagroup.com/channels/ent-movies.webp" group-title="📺 Series y Entretenimiento",Ent Movies
 https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ent.drama" tvg-name="ENT Drama" tvg-logo="https://www.40mediagroup.com/channels/ent-drama.webp" group-title="📺 Series y Entretenimiento",ENT Drama
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
